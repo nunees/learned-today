@@ -13,7 +13,8 @@ Inspired by [Josh Branchaud's](https://github.com/jbranchaud) [til](https://gith
 ## Linux
 - [IP Command](linux/ipcommand.md)
 - [SS Command](linux/ss-command.md)
-- [Setup Old Polaris for Compute](linux/setup-old-polaris-for-compute.md)
+- [Setup Old Polaris Card for Compute](linux/setup-old-polaris-for-compute.md)
+- [CGroups](linux/cgroups.md)
 
 ## llama.cpp
 
