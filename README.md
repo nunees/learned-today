@@ -11,9 +11,10 @@ If you find any of the content useful, feel free to use it in your own projects 
 Inspired by [Josh Branchaud's](https://github.com/jbranchaud) [til](https://github.com/jbranchaud/til).
 
 ## Linux
-
-[IP Command](linux/ipcommand.md)
+- [IP Command](linux/ipcommand.md)
+- [SS Command](linux/ss-command.md)
+- [Setup Old Polaris for Compute](linux/setup-old-polaris-for-compute.md)
 
 ## llama.cpp
 
-[Building llama.cpp with Vulkan on old XFX RX 580](llama.cpp/rx580-llama-build.md)
+- [Building llama.cpp with Vulkan on old XFX RX 580](llama.cpp/rx580-llama-build.md)
